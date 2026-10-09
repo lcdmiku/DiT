@@ -1,0 +1,14 @@
+/.idea
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+datasets/*
+checkpoints/*
+
+#png
+*.png
+
+#params
+*.pth
